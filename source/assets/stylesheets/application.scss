@@ -3,14 +3,14 @@
 // Platter
 // ------------------------------------------------------------
 
-@import "normalise";
-@import "settings";
-@import "typography";
-@import "base";
-@import "layout";
-@import "modules";
-@import "theme";
-@import "media-queries";
+@import "_settings";
+@import "_normalise";
+@import "_base";
+@import "_typography";
+@import "_layout";
+@import "_modules";
+@import "_theme";
+@import "_media-queries";
 
 // Vendor
 // ------------------------------------------------------------
